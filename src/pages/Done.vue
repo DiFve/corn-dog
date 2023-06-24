@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import KamKom from "../assets/KamKom.png";
+import KamKom from "../assets/Kamkom.png";
 import Navbar from "../components/Navbar.vue";
 
 export default {
